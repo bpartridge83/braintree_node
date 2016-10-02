@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "merchant.js",
+  "sourceRoot": "",
+  "sources": [
+    "merchant.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,sCAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AACnB,CADD,EACoB,IAAA,QADpB,KACoB;;AAEd,CAHN;CAIC;CAAA;;CAAc,CAAA,CAAA,OAAA,QAAC;CACZ,OAAA,iBAAA;CAAA,GAAA,MAAA,gCAAM;CAEN,GAAA,MAAa,MAAb;CACE,GAAC,EAAD,UAAA;;CAAqB;CAAA;cAAA,6BAAA;gDAAA;CAAA,GAAI,WAAA,UAAA;CAAJ;;CAArB;MAJS;CAAd,EAAc;;CAAd;;CADsB;;AAOvB,CAVA,EAUmB,IAAZ,CAAP"
+}

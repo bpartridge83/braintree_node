@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "discount.js",
+  "sourceRoot": "",
+  "sources": [
+    "discount.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,qBAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAEA;CAAA;;;;CAAA;;CAAA;;CAAuB;;AAEvB,CAJA,EAImB,IAAZ,CAAP"
+}

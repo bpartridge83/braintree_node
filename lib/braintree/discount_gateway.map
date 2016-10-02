@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "discount_gateway.js",
+  "sourceRoot": "",
+  "sources": [
+    "discount_gateway.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,8BAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAa,IAAA,CAAb,IAAa;;AACZ,CADD,EACY,IAAA,IAAA;;AAEN,CAHN;CAIC;CAAA;;CAAc,CAAA,CAAA,IAAA,kBAAE;CACb,EADa,CAAD,GACZ;CAAA,EAAU,CAAV,EAAA,CAAkB;CADrB,EAAc;;CAAd,EAGC,KAAK,CAAC;CACH,CAAiB,CAAlB,CAAC,EAA0B,CAAnB,CAAqD,EAAA,CAA7D,CAAA,IAAoB,KAAyC;CAJhE,EAGM;;CAHN;;CAD6B;;AAO9B,CAVA,EAU0B,IAAnB,QAAP"
+}
